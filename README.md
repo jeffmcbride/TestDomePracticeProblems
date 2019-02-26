@@ -1,1 +1,1 @@
-# TestDomePracticeProblems
+Solutions to various problems on TestDome, consisting of JavaScript, CSS, HTML, C#, Java, and more to come.
