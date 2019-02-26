@@ -11,6 +11,8 @@ using System.Collections.Generic;
 
 public class TrainComposition    
 {
+    /*This problem and easily and efficently be done by using a LinkedList.
+    You must import Collections.Generic to use LinkedLists*/
     LinkedList<int> Jeff = new LinkedList<int>();
     
     public void AttachWagonFromLeft(int wagonId)
